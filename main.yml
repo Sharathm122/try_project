@@ -1,4 +1,4 @@
-name: GHCR_TOKEN
+name: GHCR_USERNAME
 
 on:
   push:

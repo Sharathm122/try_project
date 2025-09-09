@@ -1,4 +1,4 @@
-name: GHCR_USERNAME
+name: SAM
 
 on:
   push:

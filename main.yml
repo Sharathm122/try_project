@@ -1,4 +1,4 @@
-name: SAM
+name:SAM
 
 on:
   push:

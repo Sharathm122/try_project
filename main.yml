@@ -1,4 +1,4 @@
-name: CICDDEMO
+name: GHCR_TOKEN
 
 on:
   push:
